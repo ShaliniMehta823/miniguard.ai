@@ -1,0 +1,18 @@
+# Core speech and voice
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+PyAudio==0.2.14
+
+# Config + utilities
+PyYAML==6.0.2
+requests==2.32.3
+
+# Knowledge + search
+wikipedia==1.4.0
+googletrans==4.0.0-rc1
+
+# Fun & humor
+pyjokes==0.6.0
+
+# System control (Windows volume etc.)
+pycaw==20230407
